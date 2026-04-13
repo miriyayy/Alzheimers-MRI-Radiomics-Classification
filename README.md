@@ -292,14 +292,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Supervisor Dr.Ramin Rasi for clinical domain expertise
 - MRI radiomics extraction pipeline developers
 
----
 
-## 📊 Project Status
-
-🟢 **Active Research** | Abstract approved for conference submission  
-📅 **Last Updated:** April 2026  
-🎯 **Next Milestone:** External validation on ADNI dataset
-
----
-
-⭐ **If you find this research useful, please consider starring this repository!**
